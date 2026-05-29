@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Home</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 700px; margin: 40px auto; line-height: 1.6; }
+    h1 { color: #333; }
+  </style>
+</head>
+<body>
+  <h1>Générateur de feuille de soin pour Maiia</h1>
+
+  <p>
+    Ce service permet aux médecins de générer la feuille de soin des patient afin que ces derniers puissent être remboursé de leurs soins :
+    Téléchargement direct
+    Téléchargement du mail à utiliser comme brouillon et envoyer
+    Synchronisation et envoi par compte Outlook et Gmail
+  </p>
+</body>
+</html>
